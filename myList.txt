@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+!  Checksum: 9jJRPCN2inW0VOPx/vsbwA
+!  Last Modified:  Wed, 19 Feb 2014 03:02:33 GMT
+!  Homepage: https://github.com/Muscipular/my_adb_list
+!  Title: My Adb List
+!  Coding: utf-8
+!  Expires: 5 days
+!  Version: 1
+##div.game_spread_thread
+##div[id^=game_couplet_pb_]
+127.0.0.1:*/*/browserLink
+192.168.*:*/*/browserLink
+360doc.com/js/StickySystemOther*
+localhost:*/*/browserLink
+www.baidu.com##div#s_wl
